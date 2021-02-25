@@ -1,6 +1,6 @@
 **INICIAR APP**
 
-Para iniciar la aplicación primero ve, hazlo y luego entiéndelo.
+Para iniciar la aplicación primero véelo, hazlo y luego entiéndelo.
 Después, abre un cmd en el directorio del proyecto y ejecuta
 el comando 'node app.js'. (se abre en localhost:3000)
 
