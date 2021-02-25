@@ -57,7 +57,8 @@ function GenerateNewText() {
       "pues no sé por qué no va",
       "symfony",
       "este está a pescozón",
-      "voy a dibujarlo para que lo entendáis mejor"
+      "voy a dibujarlo para que lo entendáis mejor",
+      "wat japen"
    ];
 }
 
