@@ -1,0 +1,12 @@
+**INICIAR APP**
+
+Para iniciar la aplicación primero ve, hazlo y luego entiéndelo.
+Después, abre un cmd en el directorio del proyecto y ejecuta
+el comando 'node app.js'. (se abre en localhost:3000)
+
+**CAMBIAR CONTENIDO DEL IPSUM**
+
+En el archivo de configuración 'generator.js' hay un array
+'sentences' cuyo contenido es todas las frases que quieras
+que incluya el programa. El proceso de transformación en
+párrafos lo hace automático.

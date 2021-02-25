@@ -1,0 +1,58 @@
+body {
+    background-image:url("img/background.jpg");
+    background-size: cover;
+}
+
+#container {
+    margin: auto;
+    width: 40%;
+    border: 3px solid white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    text-shadow: 0 0 3px white, 0 0 10px white;
+}
+
+p, h1 {
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p {
+    padding-top: 10px;
+}
+
+.descripcion {
+    font-size: 1.15em;
+    text-decoration: underline;
+}
+
+.parrafo:first-letter {
+    text-transform: capitalize;
+}
+
+.generate-button {
+    background-color: #5a5a5a; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.generate-button:hover {
+    background-color: #858585;
+}
+
+.paragraph-number {
+    border-radius: 5px;
+    padding: 8px 10px;
+}
