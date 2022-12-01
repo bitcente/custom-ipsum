@@ -5,7 +5,7 @@ body {
 
 #container {
     margin: auto;
-    width: 40%;
+    width: calc(100% - 60px);
     border: 3px solid white;
     text-align: center;
     padding: 20px;
