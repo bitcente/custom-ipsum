@@ -1,4 +1,9 @@
 # Run
+First, make sure all node modules are installed
+```
+npm install
+```
+Then, run the app
 ```
 node app.js
 ```
